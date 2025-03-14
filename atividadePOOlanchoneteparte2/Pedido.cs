@@ -12,10 +12,10 @@ namespace atividadePOOlanchoneteparte2
 
         List<Produto> lista = new List<Produto>();
 
-        public int calculoTotal() 
+        public int calculoTotal()
         {
-            
-            return 0; 
+
+            return 0;
         }
 
     }
